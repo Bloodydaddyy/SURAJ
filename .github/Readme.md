@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 SURAJ 🥀」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="./Storm.jpeg" alt="Logo">
+  <img src="./SURAJ.jpeg" alt="Logo">
 </p>
 
 <p align="center">
@@ -24,11 +24,10 @@
  
 ![](https://count.getloli.com/get/@VARC9210.github.STORM)
 </br>
-
+https://telegra.ph/file/f29c72321148b843
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM\&theme=dark)
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=VARC9210&repo=STORM\&theme=
 ## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
